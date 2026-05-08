@@ -33,5 +33,5 @@ Include lowercase letters? (y/n): y
 Include digits? (y/n): y
 Include special characters? (y/n): y
 
-Generated Password: 4X7r+iy$NSez
+Generated Password: A7x!mP2@qL9z
 ```
