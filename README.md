@@ -21,3 +21,17 @@ A Python command-line tool that generates customizable secure passwords.
 
 ```bash
 python password_generator.py
+
+## Example Output
+
+```bash
+Welcome to the Password Generator!
+
+Enter the desired password length (8-128): 12
+Include uppercase letters? (y/n): y
+Include lowercase letters? (y/n): y
+Include digits? (y/n): y
+Include special characters? (y/n): y
+
+Generated Password: 4X7r+iy$NSez
+```
